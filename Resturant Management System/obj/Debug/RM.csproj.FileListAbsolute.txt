@@ -1,0 +1,45 @@
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.AssemblyReference.cache
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.SuggestedBindingRedirects.cache
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.frmHome.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.frmLogin.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.frmMain.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Model.frmCategoryAdd.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.SampleAdd.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.SampleView.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.View.frmCategoryView.resources
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.GenerateResource.cache
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\bin\Debug\Guna.UI2.dll
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.CopyComplete
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+D:\SEMESTER 3\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.View.frmTableView.resources
+D:\mine\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+D:\mine\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+D:\mine\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+D:\mine\Resturant Management System\Resturant Management System\bin\Debug\Guna.UI2.dll
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.AssemblyReference.cache
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.SuggestedBindingRedirects.cache
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.frmHome.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.frmLogin.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.frmMain.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Model.frmCategoryAdd.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.SampleAdd.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.SampleView.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.View.frmCategoryView.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.GenerateResource.cache
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.CoreCompileInputs.cache
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\RM.csproj.CopyComplete
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.View.frmTableView.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Model.frmTableAdd.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Model.frmStaffAdd.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.View.frmStaffView.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Model.frmProductAdd.resources
+D:\mine\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.View.frmProductView.resources
